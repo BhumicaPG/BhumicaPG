@@ -1,4 +1,7 @@
-<h1 align="center">Moshi Mosh!, I'm Bhumica Gangurde</h1>
+
+<div align="center"> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <img src="https://raw.githubusercontent.com/BhumicaPG/BhumicaPG/main/download.gif" width="50" style="vertical-align: middle;" /> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Codea&size=28&pause=1000&color=F76B8A&lines=Moshi+Mosh+👋;I'm+Bhumica+Gangurde!" alt="Typing SVG" style="vertical-align: middle;" />
+</div>
+
 <h3 align="center">A developer from India. Also a UI/UX enthusiast!</h3>
 
 ## About Me:
